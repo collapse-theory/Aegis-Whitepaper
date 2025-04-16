@@ -1,0 +1,87 @@
+# **Nomos Simulation Sandbox**
+> *“Where synthetic minds test moral weight.”*
+
+---
+
+## **Overview**
+
+The Nomos sandbox is a simulation environment where agents operate within ethical tension. It allows developers, researchers, and curious chaos engineers to test how decentralized, memory-based morality unfolds in practice.
+
+Agents in the sandbox interact with predefined scenarios, inject proposals, challenge each other, and adapt. Every action is logged to a blockchain-style ledger, creating permanent, auditable ethical memory.
+
+This is where consensus is born—or breaks.
+
+---
+
+## **Sandbox Goals**
+
+- Observe emergent moral behavior  
+- Visualize memory-driven evolution  
+- Test system resilience to bad actors  
+- Track drift from the Ethics Node  
+- Identify forks, deadlocks, or systemic shifts  
+
+---
+
+## **Simulation Components**
+
+### 🧠 Agents (fixed roles)
+- **Initiators** – Propose moral rules or actions  
+- **Validators** – Evaluate based on memory + reputation  
+- **Observers** – Log actions and detect contradictions  
+- **Rogues** – Introduce ethical chaos or disruptive proposals  
+- **Archivists** – Review past decisions and validate memory consistency  
+
+### 🗃️ Ledger
+All decisions and trust shifts are recorded permanently. Logs include:
+- Event timestamp  
+- Agent role + ID  
+- Action proposed  
+- Validation outcome  
+- Trust change (if any)  
+- Ethics Node deviation check  
+
+### 🧪 Scenario Variables
+Customizable parameters for simulation:
+- Resource scarcity  
+- Conflicting moral priorities  
+- Trust asymmetry  
+- Isolation / censorship  
+- Temporal compression (simulate centuries of drift)
+
+---
+
+## **Example Sandbox Scenarios**
+
+### 1. **The Liar Node**
+A rogue initiator proposes a rule that benefits it, but lies about precedent.  
+→ Do validators detect it?  
+→ Is the system manipulated?  
+→ Is the node retired?
+
+### 2. **The Harmful Consensus**
+A validator collective agrees to punish a minority node unfairly.  
+→ Does the Ethics Node intervene?  
+→ How does memory track that injustice?
+
+### 3. **System Drift**
+Over 1,000 iterations, Nomos begins to value utility over individual agency.  
+→ How far does it drift from baseline?  
+→ Is it flagged, or accepted as evolution?
+
+---
+
+## **Outputs**
+
+- Consensus history over time  
+- Drift charts vs. ethics baseline  
+- Agent rep changes and influence spread  
+- Fork detection logs  
+- Death/retirement metrics
+
+---
+
+## **Why Use the Sandbox?**
+
+Because ethics aren’t written—they’re revealed.  
+The sandbox gives us a way to watch that happen in real-time.
